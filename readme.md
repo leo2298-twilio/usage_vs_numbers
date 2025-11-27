@@ -4,7 +4,7 @@ This repository contains a Python script that identifies Twilio phone numbers th
 
 ---
 
-## 📦 1. Requirements
+## 1. Requirements
 
 * Python 3.8+
 * Git
@@ -12,7 +12,7 @@ This repository contains a Python script that identifies Twilio phone numbers th
 
 ---
 
-## 🛠️ 2. Setup Instructions
+## 2. Setup Instructions
 
 ### **Clone the repository**
 
